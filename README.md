@@ -7,6 +7,7 @@ This project dives deep into the Billionaires Statistics Dataset (2023) to uncov
 👨‍💼 Wealth gap is evident, with male billionaires far outnumbering female billionaires 🚹🚺
 📊 Older billionaires hold more wealth, while younger ones emerge in tech & startups 🚀
 
+
 🛠️ Techniques Used:
 ✅ Data Cleaning & Processing 🛠️
 ✅ Exploratory Data Analysis (EDA) 📊
